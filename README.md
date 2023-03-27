@@ -10,10 +10,6 @@ I am also a student at [Qwasar](https://qwasar.io/)
 - 🌐 Visit my [porfolio website](https://najiu-portfolio.webflow.io/) for complete background and contact.
 
 ---
-<div align="center">
-  <img width = 400 alt="Coding" src="https://th.bing.com/th/id/R.d54c602400e23fae413106c769fc5d87?rik=O0fdzRU8NSSWcw&pid=ImgRaw&r=0">
-</div>
-
 
 
 <p align = "center">
@@ -21,7 +17,9 @@ I am also a student at [Qwasar](https://qwasar.io/)
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=najeeudanesi&theme=dark&hide_border=true" width = 400>
 </p>
 
-
+<div align="center">
+  <img width = 400 alt="Coding" src="https://th.bing.com/th/id/R.d54c602400e23fae413106c769fc5d87?rik=O0fdzRU8NSSWcw&pid=ImgRaw&r=0">
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
