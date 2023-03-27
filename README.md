@@ -18,7 +18,7 @@ I am also a student at [Qwasar](https://qwasar.io/)
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=najeeudanesi&theme=dark&hide_border=true" width = 400>
 </p>
 
-<img align = "center" width = 400 alt="Coding" src="https://th.bing.com/th/id/R.d54c602400e23fae413106c769fc5d87?rik=O0fdzRU8NSSWcw&pid=ImgRaw&r=0">
+<img align = "right" width = 400 alt="Coding" src="https://th.bing.com/th/id/R.d54c602400e23fae413106c769fc5d87?rik=O0fdzRU8NSSWcw&pid=ImgRaw&r=0">
 
 
 <h3 align="left">Languages and Tools:</h3>
