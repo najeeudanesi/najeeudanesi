@@ -11,7 +11,7 @@ I am also a student at [Qwasar](https://qwasar.io/)
 
 ---
 
-<img align = "center" width= "500px" alt="Coding" src="https://th.bing.com/th/id/R.4edeefb9610dd08b84dbc10ea72db4ed?rik=Gn032rWrbR5lgA&pid=ImgRaw&r=0">
+<img align = "right" width= "400" alt="Coding" src="https://th.bing.com/th/id/R.4edeefb9610dd08b84dbc10ea72db4ed?rik=Gn032rWrbR5lgA&pid=ImgRaw&r=0">
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=najeeudanesi&show_icons=true&theme=bear" width = 400>
