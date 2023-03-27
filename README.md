@@ -1,7 +1,7 @@
 <a href="https://twitter.com/danesinajeeu" target="_blank" rel="nofollow"><img align="right" alt="Najiu's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/najiu-danesi-6a836416a/" target="_blank" rel="nofollow"><img align="right" alt="Najiu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/danesi_xx" target="_blank" rel="nofollow"><img align="right" alt="Najiu's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 ## Hi 👋 I am Najiu! 
-I am a software engineer at [OGTL](https://eluci/) solving complex biomedical data problems with cutting edge tech and tools.
+I am a software engineer at [OGTL](https://eluci/) solving complex problems with cutting edge tech and tools.
 I am also a student at [Qwasar](https://qwasar.io/)
 
 - 🌱 I’m currently learning Web develompent using React & Nextjs...
@@ -18,7 +18,7 @@ I am also a student at [Qwasar](https://qwasar.io/)
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=najeeudanesi&theme=dark&hide_border=true" width = 400>
 </p>
 
-<img align = "center" alt="Coding" src="https://th.bing.com/th/id/R.d54c602400e23fae413106c769fc5d87?rik=O0fdzRU8NSSWcw&pid=ImgRaw&r=0">
+<img align = "center" alt="Coding" src="https://i.pinimg.com/originals/c0/e1/65/c0e1654ef1482714a3c2cc79dd256485.gif">
 
 
 <h3 align="left">Languages and Tools:</h3>
