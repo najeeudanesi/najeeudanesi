@@ -10,12 +10,14 @@ I am also a student at [Qwasar](https://qwasar.io/)
 - 🌐 Visit my [porfolio website](https://najiu-portfolio.webflow.io/) for complete background and contact.
 
 ---
+
+<img alt="Coding" src="https://th.bing.com/th/id/R.4edeefb9610dd08b84dbc10ea72db4ed?rik=Gn032rWrbR5lgA&pid=ImgRaw&r=0">
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=najeeudanesi&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=najeeudanesi&theme=dark&hide_border=true" width = 400>
 </p>
 
-<img align="right" alt="Coding" width="200" src="https://th.bing.com/th/id/R.4edeefb9610dd08b84dbc10ea72db4ed?rik=Gn032rWrbR5lgA&pid=ImgRaw&r=0">
 
 
 
