@@ -11,14 +11,14 @@ I am also a student at [Qwasar](https://qwasar.io/)
 
 ---
 
-<img align = "right" width= "400" alt="Coding" src="https://th.bing.com/th/id/R.4edeefb9610dd08b84dbc10ea72db4ed?rik=Gn032rWrbR5lgA&pid=ImgRaw&r=0">
+
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=najeeudanesi&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=najeeudanesi&theme=dark&hide_border=true" width = 400>
 </p>
 
-
+<img alt="Coding" src="https://th.bing.com/th/id/R.d54c602400e23fae413106c769fc5d87?rik=O0fdzRU8NSSWcw&pid=ImgRaw&r=0">
 
 
 <h3 align="left">Languages and Tools:</h3>
