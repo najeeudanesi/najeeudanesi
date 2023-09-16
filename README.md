@@ -7,8 +7,6 @@ I am also a student at [Qwasar](https://qwasar.io/)
 - 🌱 I’m currently learning Web develompent using React & Nextjs...
 - 👯 I’m looking to collaborate on any web dev project...
 
-- 🌐 Visit my [porfolio website](https://najiu-portfolio.webflow.io/) for complete background and contact.
-
 ---
 
 
