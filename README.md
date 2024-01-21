@@ -2,9 +2,9 @@
 
 ## Hi 👋 I am Najiu! 
 I am a software engineer at [OGTL](https://eluci/) solving complex problems with cutting edge tech and tools.
-I am also a student at [Qwasar](https://qwasar.io/)
+I am also aN Alumni of [Qwasar](https://qwasar.io/)
 
-- 🌱 I’m currently learning Web develompent using React & Nextjs...
+- 🌱 I’m a frontend software Developer...
 - 👯 I’m looking to collaborate on any web dev project...
 
 ---
